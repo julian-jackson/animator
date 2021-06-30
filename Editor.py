@@ -1,3 +1,5 @@
+# I HATE ABOS
+
 import pygame, ui, os, pickle
 from Engine import Display
 from RectManager import Manager
@@ -46,7 +48,7 @@ objects = [
         }
 ]
 
-objects.append( 
+objects.append(
     {
 
         "id": "Rect3",
